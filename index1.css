@@ -1,0 +1,42 @@
+
+#frm{
+    padding: 20px;
+    border: 2px solid;
+    
+
+}
+#cart{
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid;
+
+}
+th, td, tr{
+    border: 1px solid;
+} 
+
+
+/* #frm{
+ background-color:#0FF;   
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    width:100px;
+    text-align:center;
+}
+#cart {
+text-align:center;
+color:#00F;
+margin:0;
+}
+#cart #cardimg{
+width:80px;
+margin-bottom:10px;
+}
+#cart img{
+width:40px;
+ 
+height:60px;
+margin:2px;
+}  */
